@@ -1,0 +1,9 @@
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\bin\Debug\BankAccount.exe
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\bin\Debug\BankAccount.pdb
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.csprojAssemblyReference.cache
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.FrmTestAccounts.resources
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.Properties.Resources.resources
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.csproj.GenerateResource.cache
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.csproj.CoreCompileInputs.cache
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.exe
+E:\Spring 2019\PROG 1853\Labs\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.pdb
